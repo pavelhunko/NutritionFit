@@ -31,4 +31,6 @@ public class MainActivity extends Activity {
 		}
 		return super.onOptionsItemSelected(item);
 	}
+	
+	//implement NumberPicker for each individual field with http://www.i-programmer.info/programming/android/6418-android-adventures-pickers.html?start=2
 }
